@@ -7,7 +7,7 @@ const users = [
     {
         "id":1,
         "name":"chanachai",
-        "email":"mannyday@gmail.com"
+        "email":"mannydayko@gmail.com"
     },
     {
         "id":2,
